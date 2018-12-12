@@ -1,1 +1,1 @@
-# CL4y-DDoS.py
+# CL4y-DDoS
